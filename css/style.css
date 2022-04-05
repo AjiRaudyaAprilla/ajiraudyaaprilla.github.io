@@ -1,0 +1,43 @@
+.slider h4,
+.slider h5 {
+	text-shadow: 1px 1px 3px rgba(0,0,0,5);
+}
+
+.slides {
+	background-size: cover;
+}
+.parallax-container {
+	height: 20%;
+}
+
+.clients img {
+	max-width: 150px;
+	max-height: 150px;
+}
+
+section {
+	padding: 20px 0;
+}
+
+footer {
+	padding: 1px;
+}
+
+.contact img {
+	max-width: 50px;
+	padding: 5px;
+}
+
+.dropdown-content a:hover{
+	color: green;
+	font-size: 25px:;
+
+}
+
+.brand-logo {
+	max-height: 20px;
+}
+
+body {
+	font-family: 'Slabo 27px', serif;
+}

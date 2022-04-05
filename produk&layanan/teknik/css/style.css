@@ -1,0 +1,24 @@
+.slider h4,
+.slider h5 {
+	text-shadow: 1px 1px 3px rgba(0,0,0,5);
+}
+
+section {
+	padding: padding: 20px 0;
+}
+
+.contact img {
+	max-width: 50px;
+	padding: 5px;
+}
+footer {
+	padding: 1px;
+}
+
+.portofolio img {
+	max-height: 300px;
+	max-width: 300px;
+}
+body {
+	font-family: 'Slabo 27px', serif;
+}

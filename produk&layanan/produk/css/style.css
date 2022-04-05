@@ -1,0 +1,19 @@
+section {
+	padding: -20px 0;
+	margin-top: 0px;
+}
+
+.contact img {
+	max-width: 50px;
+	padding: 5px;
+}
+footer {
+	padding: 1px;
+}
+.portofolio img {
+	max-height: 300px;
+	max-width: 300px;
+}
+body {
+	font-family: 'Slabo 27px', serif;
+}
